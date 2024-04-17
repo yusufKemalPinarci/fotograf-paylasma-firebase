@@ -10,7 +10,6 @@
     <!-- Gerçek arka plan şeklini burada tanımlayalım -->
     <item>
         <shape xmlns:android="http://schemas.android.com/apk/res/android">
-            <stroke  android:color="#3385FF" android:width="5sp"></stroke>
             <gradient android:endColor="#B2CCFF"></gradient>
             <corners android:radius="20dp"></corners>
         </shape>

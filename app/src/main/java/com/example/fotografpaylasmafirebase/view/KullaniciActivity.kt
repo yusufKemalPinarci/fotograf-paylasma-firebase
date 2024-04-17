@@ -22,7 +22,6 @@ class KullaniciActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_kullanici)
         auth =FirebaseAuth.getInstance()
-
         val guncelKullanici =auth.currentUser
         if(guncelKullanici !=null){
             val intent = Intent(this, HaberlerActivity::class.java)
