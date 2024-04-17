@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Boşluk bırakmak için bir shape ekleyelim -->
+    <item android:bottom="10dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <padding android:bottom="5dp"  ></padding>
+        </shape>
+    </item>
+    <!-- Gerçek arka plan şeklini burada tanımlayalım -->
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <stroke  android:color="#3385FF" android:width="5sp"></stroke>
+            <gradient android:endColor="#B2CCFF"></gradient>
+            <corners android:radius="20dp"></corners>
+        </shape>
+    </item>
+</layer-list>

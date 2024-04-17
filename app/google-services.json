@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97230931737",
+    "project_id": "fotograf-paylasma-f63eb",
+    "storage_bucket": "fotograf-paylasma-f63eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97230931737:android:ca27c3b3e4f53b6f362788",
+        "android_client_info": {
+          "package_name": "com.example.fotografpaylasmafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt-185fnjrNI_rj05tJF39GCPAZHkcn0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

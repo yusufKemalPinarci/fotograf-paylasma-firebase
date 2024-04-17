@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#66A3FF</color>
+        <!-- Ana renkler -->
+        <color name="my_light_primary">#3F51B5</color>
+        <color name="my_dark_primary">#303F9F</color>
+        <color name="my_accent">#1B3C7E</color>
+
+
+
+</resources>
